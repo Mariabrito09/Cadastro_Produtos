@@ -11,10 +11,10 @@
 <body>
     <form action="" method="post">
         <label for="nome">Nome do Produto: </label>
-        <input type="text" name="nome" required> <br>
+        <input type="text" name="nome"> <br>
 
         <label for="preco">Preço: </label>
-        <input type="number" name="preco" required> <br>
+        <input type="number" name="preco"> <br>
 
         <button type="submit">Cadastrar</button>
     </form>
